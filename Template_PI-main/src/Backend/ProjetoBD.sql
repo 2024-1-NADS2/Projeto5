@@ -1,1 +1,0 @@
-select * FROM eventos,eventos_ongs,eventos_voluntários;
