@@ -20,7 +20,9 @@
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs, proporcionando-lhes maior visibilidade e reconhecimento. Além disso, buscamos conectar voluntários às causas com as quais se identificam, facilitando a descoberta das melhores oportunidades de voluntariado para cada pessoa. 
+
+Nosso objetivo é capacitar cada pessoa a contribuir para a construção de um mundo melhor.
 <br><br>
 May the force be with you!
 <br><br>
@@ -119,8 +121,8 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. 
+2. 
+3. 
+4. 
+Licença CC 0.
