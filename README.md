@@ -8,9 +8,9 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/emillydepine/">Emilly Depine</a>, <a href="https://www.linkedin.com/in/fernando-jos%C3%A9-dos-santos-a7a449135/">Fernando José</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kaua Torres</a> e <a href="https://www.linkedin.com/in/sergio-pedote/">Sergio Pedote</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/emillydepine/">Emilly Depine</a>, <a href="https://www.linkedin.com/in/fernando-jos%C3%A9-dos-santos-a7a449135/">Fernando José</a>, <a href="https://www.linkedin.com/in/kau%C3%A3-silva-rocha-0a2b0a1a5/">Kauã Torres</a> e <a href="https://www.linkedin.com/in/sergio-pedote/">Sergio Pedote</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Buesso</a>.
 
 ## Descrição
 
