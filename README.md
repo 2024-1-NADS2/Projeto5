@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Conexões Solidárias" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
@@ -83,13 +83,13 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+-<a href="https://nodejs.org/en/download/package-manager/current">Node.js</a>
 
-```sh
-make install
-npm test
+Assim que instalado, abra o Terminal e digite "npm install",
+após instalado digite "npm start"
 Coloque código do prompt de comnando se for necessário
-```
+
 
 ## 🗃 Histórico de lançamentos
 
@@ -97,26 +97,28 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.2.1 - 25/01/2022
     * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.3.0 - 15/01/2022
+    * Troca total do HTML e CSS para React
+    * 
+* 0.2.0 - 11/01/2022
+    * Desenvolvimento do CSS e HTML
+    * Sites montados
+* 0.1.1 - 24/02/2024
+    * Escolha das cores que serão utilizadas no site
+    * Definição do Tema do Site
+* 0.0.1 - 14/02/2024
     * Trabalho em andamento
 
 ## 📋 Licença/License
 
+Conexões Solidárias © 2024 by Sérgio Pedote, Fernando José, Kauã Torres, Emilly Depine is licensed under CC BY 4.0 
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. 
+1. https://learn.microsoft.com/pt-br/
 2. 
 3. 
 4. 
-Licença CC 0.
+[Licença CC 0.](https://chooser-beta.creativecommons.org/)
