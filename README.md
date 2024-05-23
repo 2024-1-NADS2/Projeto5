@@ -25,6 +25,7 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 
 -Raiz<br>
 |<br>
+
 |-->documentos<br>
   &emsp;|-->antigos<br>
   &emsp;|Placeholder.txt<br>
@@ -35,6 +36,7 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
   &emsp;|-->HTML<br>
+  
 |-->imagens<br>
   &emsp;|-->Bootstrap_5.0_Screenshot.png<br>
 
