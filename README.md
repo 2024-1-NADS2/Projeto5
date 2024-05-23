@@ -27,15 +27,26 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 |<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|Placeholder.txt<br>
+  &emsp;|Requisitos de Modelagem de Software e Arquitetura de Sistemas.docx<br>
+  &emsp;|Template_-_Projetos_de_Extensão.docx<br>
+  
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
+  &emsp;|-->Bootstrap_5.0_Screenshot.png<br>
+
 |-->src<br>
   &emsp;|-->Backend<br>
+  &emsp;|Colocar os códigos do Backend Aqui.txt<br>
+  &emsp;|DiagramaModeloBD.png<br>
+  &emsp;|ProjetoBD.sql<br>
+  
   &emsp;|-->Frontend<br>
+  &emsp;|Colocar os códigos do Frontend Aqui.txt<br>
+  
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
