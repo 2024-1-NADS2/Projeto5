@@ -1,7 +1,7 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+<a href= "https://www.fecap.br/"><img src="https://img.freepik.com/fotos-gratis/pessoas-de-cadeia-de-origami-vista-superior-com-globo_23-2148621071.jpg?t=st=1716558756~exp=1716562356~hmac=b8924e9196a411e3423ccf3103a80e5394329dfd08b26c36ecfb17d460bb7fd4&w=740" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
 # Conexões Solidárias 
