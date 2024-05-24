@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://img.freepik.com/fotos-gratis/pessoas-de-cadeia-de-origami-vista-superior-com-globo_23-2148621071.jpg?t=st=1716558756~exp=1716562356~hmac=b8924e9196a411e3423ccf3103a80e5394329dfd08b26c36ecfb17d460bb7fd4&w=740" alt="Conexões Solidárias" border="0">
+<img src="https://img.freepik.com/fotos-gratis/pessoas-de-cadeia-de-origami-vista-superior-com-globo_23-2148621071.jpg?t=st=1716558756~exp=1716562356~hmac=b8924e9196a411e3423ccf3103a80e5394329dfd08b26c36ecfb17d460bb7fd4w=740" alt="Conexões Solidárias" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
