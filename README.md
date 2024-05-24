@@ -45,6 +45,9 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
   &emsp;|-->Frontend<br>
   &emsp;|Colocar os códigos do Frontend Aqui.txt<br>
 
+## 🛠 Acesso ao Figma
+
+<b> https://www.figma.com/design/tjqtLThx4aJjNfmZOYDbXo/Untitled?node-id=0-1&t=QHKqCsIj649KF0ts-1 </b>
   
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
@@ -80,8 +83,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
-Conexões Solidárias © 2024 by Sérgio Pedote, Fernando José, Kauã Torres, Emilly Depine is licensed under CC BY 4.0 
-
+Conexões Solidarias © 2024 by Sergio Pedote, Emilly Depine, Fernando José, Kauã Torres is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
@@ -89,6 +91,6 @@ Aqui estão as referências usadas no projeto:
 1. https://learn.microsoft.com/pt-br/
 2. https://sejavoluntario.org.br/
 3. https://www.apabb.org.br/seja-voluntario.html
-4. https://www.figma.com/design/tjqtLThx4aJjNfmZOYDbXo/Untitled?node-id=0-1&t=QHKqCsIj649KF0ts-1
+4. https://creativecommons.org/licenses/by/4.0/
 
-[Licença CC 0.](https://chooser-beta.creativecommons.org/)
+[Licença CC 4.0]([https://chooser-beta.creativecommons.org/](https://creativecommons.org/licenses/by/4.0/)
