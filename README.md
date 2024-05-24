@@ -14,8 +14,7 @@
 
 <p align="center">
 <img src="https://img.freepik.com/fotos-gratis/campanha-empresarial-de-rse-de-maos-dadas_53876-127168.jpg?t=st=1716560194~exp=1716563794~hmac=71e0de986533579a15222864f14c54a32d11a810a55f4a68a4fea0244ad6d845&w=900" alt="Conexões Solidárias" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+
 
 <br><br>
 Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs, proporcionando-lhes maior visibilidade e reconhecimento. Além disso, buscamos conectar voluntários às causas com as quais se identificam, facilitando a descoberta das melhores oportunidades de voluntariado para cada pessoa. Nosso objetivo é ajudar cada pessoa a contribuir para a construção de um mundo melhor.
