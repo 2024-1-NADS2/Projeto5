@@ -87,6 +87,8 @@ Para executar este projeto, são necessárias as seguintes ferramentas:
 
 <b><a href="https://code.visualstudio.com/download">Visual Studio Code</a></b>
 
+<b><a href="https://azure.microsoft.com/pt-br/free/cosmos-db/search/?ef_id=_k_CjwKCAjw9cCyBhBzEiwAJTUWNbnfUlZ0-ruug-ACbEDOggFhrFQr9wgYXMUZZdl1jlIVN30m6NKgSxoCBm0QAvD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_CjwKCAjw9cCyBhBzEiwAJTUWNbnfUlZ0-ruug-ACbEDOggFhrFQr9wgYXMUZZdl1jlIVN30m6NKgSxoCBm0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw9cCyBhBzEiwAJTUWNbnfUlZ0-ruug-ACbEDOggFhrFQr9wgYXMUZZdl1jlIVN30m6NKgSxoCBm0QAvD_BwE">Microsft Azure</a></b>
+
 
 ## 🗃 Histórico de lançamentos
 
