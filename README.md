@@ -80,6 +80,7 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 Para executar este projeto, são necessárias as seguintes ferramentas:
 
 <b><a href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2022</a></b>
+
 <b><a href="https://nodejs.org/en">Node.js</a></b>
 
 
