@@ -17,7 +17,6 @@
 
 ## Descrição:
 
-<br>
 Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs, proporcionando-lhes maior visibilidade e reconhecimento. Além disso, buscamos conectar voluntários às causas com as quais se identificam, facilitando a descoberta das melhores oportunidades de voluntariado para cada pessoa. Nosso objetivo é ajudar cada pessoa a contribuir para a construção de um mundo melhor.
 <br><br>
 
