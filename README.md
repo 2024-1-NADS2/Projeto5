@@ -27,9 +27,6 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Placeholder.txt<br>
-  &emsp;|Requisitos de Modelagem de Software e Arquitetura de Sistemas.docx<br>
-  &emsp;|Template_-_Projetos_de_Extensão.docx<br>
   
 |-->executáveis<br>
   &emsp;|-->windows<br>
@@ -47,39 +44,12 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
   
   &emsp;|-->Frontend<br>
   &emsp;|Colocar os códigos do Frontend Aqui.txt<br>
+
   
-|readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
-## 🛠 Instalação
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
 
-<b><a href="https://visualstudio.microsoft.com/pt-br/vs/"> * Visual Studio 2022</a></b>
+<b><a href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2022</a></b>
 
 <b><a href="https://nodejs.org/en">Node.js</a></b>
 
