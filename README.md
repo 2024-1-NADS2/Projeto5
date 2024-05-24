@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://img.freepik.com/vetores-gratis/ilustracao-em-vetor-conceito-abstrato-de-raca-discriminacao-racial-direitos-humanos-cor-da-pele-diversidade-humana-codigo-genetico-racismo-e-igualdade-racial-no-local-de-trabalho-metafora-abstrata-de-justica-social_335657-1938.jpg?t=st=1716560056~exp=1716563656~hmac=33760a4ee244cd49c631c506c46169776808ff39e0826ead7a84df7bcd190cde&w=740" alt="Conexões Solidárias" border="0">
+<img src="https://img.freepik.com/fotos-gratis/campanha-empresarial-de-rse-de-maos-dadas_53876-127168.jpg?t=st=1716560194~exp=1716563794~hmac=71e0de986533579a15222864f14c54a32d11a810a55f4a68a4fea0244ad6d845&w=900" alt="Conexões Solidárias" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
