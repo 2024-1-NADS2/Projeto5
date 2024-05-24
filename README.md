@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Conexões Solidárias 
+# Conexões Solidárias 🌐
 
 ## Integrantes: <a href="https://www.linkedin.com/in/emillydepine/">Emilly Depine</a>, <a href="https://www.linkedin.com/in/fernando-jos%C3%A9-dos-santos-a7a449135/">Fernando José</a>, <a href="https://www.linkedin.com/in/kau%C3%A3-silva-rocha-0a2b0a1a5/">Kauã Torres</a> e <a href="https://www.linkedin.com/in/sergio-pedote/">Sergio Pedote</a>.
 
