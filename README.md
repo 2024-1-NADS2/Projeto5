@@ -83,6 +83,10 @@ Para executar este projeto, são necessárias as seguintes ferramentas:
 
 <b><a href="https://nodejs.org/en">Node.js</a></b>
 
+<b><a href="https://dev.mysql.com/downloads/workbench/">My.Sql</a></b>
+
+<b><a href="https://code.visualstudio.com/download">Visual Studio Code</a></b>
+
 
 ## 🗃 Histórico de lançamentos
 
