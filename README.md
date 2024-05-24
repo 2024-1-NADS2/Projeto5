@@ -258,10 +258,10 @@ Conexões Solidárias © 2024 by Sérgio Pedote, Fernando José, Kauã Torres, E
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
+Aqui estão as referências usadas no projeto:
 
 1. https://learn.microsoft.com/pt-br/
-2. 
-3. 
+2. https://sejavoluntario.org.br/
+3. https://www.apabb.org.br/seja-voluntario.html
 4. 
 [Licença CC 0.](https://chooser-beta.creativecommons.org/)
