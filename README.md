@@ -45,10 +45,11 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
   &emsp;|-->Frontend<br>
   &emsp;|Colocar os códigos do Frontend Aqui.txt<br>
 
-## 🛠 Acesso ao Figma
+## 🛠 Acesso
 
 <b> https://www.figma.com/design/tjqtLThx4aJjNfmZOYDbXo/Untitled?node-id=0-1&t=QHKqCsIj649KF0ts-1 </b>
-  
+<b> https://conexoessolidariasads.netlify.app/ </b>
+
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
 
