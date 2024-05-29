@@ -47,7 +47,7 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 
 ## 🛠 Acesso
 
-<b> https://www.figma.com/design/tjqtLThx4aJjNfmZOYDbXo/Untitled?node-id=0-1&t=QHKqCsIj649KF0ts-1 </b>
+<a href="https://www.figma.com/design/tjqtLThx4aJjNfmZOYDbXo/Untitled?node-id=0-1&t=QHKqCsIj649KF0ts-1> Figma</a>
 <b> https://conexoessolidariasads.netlify.app/ </b>
 
 ## 💻 Configuração para Desenvolvimento
